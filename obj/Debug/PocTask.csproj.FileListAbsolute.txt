@@ -1,0 +1,15 @@
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\bin\Debug\PocTask.exe.config
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\bin\Debug\PocTask.exe
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\bin\Debug\PocTask.pdb
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.csprojAssemblyReference.cache
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\MainWindow.g.cs
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\App.g.cs
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask_MarkupCompile.cache
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask_MarkupCompile.lref
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\MainWindow.baml
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.g.resources
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.Properties.Resources.resources
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.csproj.GenerateResource.cache
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.csproj.CoreCompileInputs.cache
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.exe
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.pdb

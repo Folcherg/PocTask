@@ -1,0 +1,13 @@
+﻿<Window x:Class="PocTask.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PocTask"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" x:Name="This">
+    <StackPanel>
+        <ToggleButton Checked="Pause" Unchecked="Resume"> Pause</ToggleButton>
+        <ListView ItemsSource="{Binding ElementName=This, Path=List}"></ListView>
+    </StackPanel>
+</Window>
