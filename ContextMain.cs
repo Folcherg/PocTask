@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
+﻿using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
 using System.Runtime.CompilerServices;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace PocTask
 {
@@ -15,6 +11,7 @@ namespace PocTask
             ProcessTests = new ProcessTest[]
             {
                 new ProcessTest(){ Name="Pause", Data = new TestPause() },
+                new ProcessTest(){ Name="Annuler", Data = new TestCancel() },
             };
         }
 

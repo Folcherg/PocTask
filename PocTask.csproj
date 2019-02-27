@@ -57,6 +57,9 @@
     </ApplicationDefinition>
     <Compile Include="ContextMain.cs" />
     <Compile Include="TaskPaused.cs" />
+    <Compile Include="TestCancel.xaml.cs">
+      <DependentUpon>TestCancel.xaml</DependentUpon>
+    </Compile>
     <Compile Include="TestPause.xaml.cs">
       <DependentUpon>TestPause.xaml</DependentUpon>
     </Compile>
@@ -72,6 +75,10 @@
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Page Include="TestCancel.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="TestPause.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
