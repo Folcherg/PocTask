@@ -16,3 +16,5 @@ C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.pdb
 C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\TestPause.g.cs
 C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
 C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\TestPause.baml
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\TestCancel.g.cs
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\TestCancel.baml
