@@ -13,3 +13,6 @@ C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.csproj.Generate
 C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.csproj.CoreCompileInputs.cache
 C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.exe
 C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\PocTask.pdb
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\TestPause.g.cs
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\gfr\source\repos\Pocs\PocTask\PocTask\obj\Debug\TestPause.baml

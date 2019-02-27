@@ -6,8 +6,16 @@
         xmlns:local="clr-namespace:PocTask"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" x:Name="This">
-    <StackPanel>
-        <ToggleButton Checked="Pause" Unchecked="Resume"> Pause</ToggleButton>
-        <ListView ItemsSource="{Binding ElementName=This, Path=List}"></ListView>
-    </StackPanel>
+    <Window.DataContext>
+        <local:ContextMain />
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        
+        <ComboBox Grid.Row="0" ItemsSource="{Binding ProcessTests}" DisplayMemberPath="Name" SelectedValue="{Binding SelectProcess}"></ComboBox>
+        <ContentControl Grid.Row="1" Content="{Binding SelectProcess.Data}"></ContentControl>
+    </Grid>
 </Window>
